@@ -12,6 +12,7 @@ en este curso vemos de todo
 *el vrdadero amor en la buenas practicas
 *trucos del profesor
 *las personalidades multiples de fredy
+*creado por juanito el magnifico
 
 
 y como un amable recordatorio "ESTE README.MD ES UN CHISTE"diseñado para dar un ejemplo .si llegas aca no te lo tomes enserip y ve al curso
