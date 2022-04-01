@@ -14,5 +14,7 @@ en este curso vemos de todo
 *las personalidades multiples de fredy
 *creado por juanito el magnifico
 
+*incluye ejemplos en windows linux y mac
+*diponible para todad las edades
 
 y como un amable recordatorio "ESTE README.MD ES UN CHISTE"diseñado para dar un ejemplo .si llegas aca no te lo tomes enserip y ve al curso
